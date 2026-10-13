@@ -1,0 +1,16 @@
+{
+  "name": "line-welcome-bot",
+  "version": "1.0.0",
+  "description": "LINE group welcome bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^10.0.0",
+    "express": "^4.21.2"
+  }
+}
